@@ -1,0 +1,27 @@
+10-08-2025 14:04:52 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.setUp()[pri:0, instance:null] -65283436
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.quit()[pri:0, instance:null] -89469242
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.addingRandomProductsToCartTC()[pri:0, instance:Tests.TC02_LandingTest@89ff02e] -1828332171
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 14:04:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 14:04:52 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+10-08-2025 14:04:53 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:26)] - Starting the browser and navigating to the base URL
+10-08-2025 14:04:55 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: addingRandomProductsToCartTC started.
+10-08-2025 14:04:55 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:58)] - randomNumber 1
+10-08-2025 14:04:55 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:58)] - randomNumber 3
+10-08-2025 14:04:55 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:58)] - randomNumber 6
+10-08-2025 14:04:55 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:36)] - number of products on cart: 3
+10-08-2025 14:04:55 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:47)] - selected products: 3
+10-08-2025 14:04:55 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: addingRandomProductsToCartTC passed.

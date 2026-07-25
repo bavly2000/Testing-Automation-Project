@@ -1,0 +1,91 @@
+05-05-2026 22:20:51 [main] [org.testng.TestNG] - suiteXmlPath: "E:\ITI\Automation\SwagLabsAutomationProject\Test Runner\RegressionSuite.xml"
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.clearAllureResults()[pri:0, instance:null] 983105242
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.setUp()[pri:0, instance:null] -1432165181
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.quit()[pri:0, instance:null] -1407979371
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.setUp()[pri:0, instance:null] -65283436
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.quit()[pri:0, instance:null] -89469242
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.setUp()[pri:0, instance:null] 1383007566
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.quit()[pri:0, instance:null] 1423839772
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC04_CheckoutTest.setUp()[pri:0, instance:null] -619877623
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC04_CheckoutTest.quit()[pri:0, instance:null] -574849449
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.setUp()[pri:0, instance:null] 149373555
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.quit()[pri:0, instance:null] 240539301
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC06_FinishingOrderTest.setUp()[pri:0, instance:null] -1421605646
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC06_FinishingOrderTest.quit()[pri:0, instance:null] -1376448480
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.clearAllureResults()[pri:0, instance:Tests.TC01_LoginTest@32232e55] 1252657851
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.validLoginTC()[pri:0, instance:Tests.TC01_LoginTest@32232e55] -2037373711
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.addingAllProductToCartTC()[pri:0, instance:Tests.TC02_LandingTest@5db4c359] -382029367
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.clickOnCartIcon()[pri:0, instance:Tests.TC02_LandingTest@5db4c359] 233905554
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.addingRandomProductsToCartTC()[pri:0, instance:Tests.TC02_LandingTest@5db4c359] -400904032
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.comparingPricesTC()[pri:0, instance:Tests.TC03_CartTest@ec0c838] 1057968144
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC04_CheckoutTest.checkoutStepOneTC()[pri:0, instance:Tests.TC04_CheckoutTest@6bab2585] -1665797486
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.checkoutStepTwoTC()[pri:0, instance:Tests.TC05_OverviewTest@a77614d] 953747886
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC06_FinishingOrderTest.finishOrderTC()[pri:0, instance:Tests.TC06_FinishingOrderTest@2f08c4b] 556509224
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+05-05-2026 22:20:52 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  E:\ITI\Automation\SwagLabsAutomationProject\Test Runner\RegressionSuite.xml
+
+05-05-2026 22:21:52 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:29)] - Starting the browser and navigating to the base URL
+05-05-2026 22:22:28 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: validLoginTC started.
+05-05-2026 22:22:28 [main] [Tests.TC01_LoginTest.validLoginTC(TC01_LoginTest.java:37)] - Entering valid credentials and clicking on the login button
+05-05-2026 22:22:33 [main] [Listeners.IInvoledMethodListenerClass.afterInvocation(IInvoledMethodListenerClass.java:19)] - Test Case: validLoginTC failed.
+05-05-2026 22:22:34 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:27)] - Starting the browser and navigating to the base URL
