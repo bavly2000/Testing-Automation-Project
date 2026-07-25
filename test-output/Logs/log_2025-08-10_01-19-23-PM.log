@@ -1,0 +1,20 @@
+10-08-2025 13:19:24 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.setUp()[pri:0, instance:null] -65283436
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.quit()[pri:0, instance:null] -89469242
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.validLoginTC()[pri:0, instance:Tests.TC02_LandingTest@69c79f09] -999028170
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 13:19:24 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 13:19:24 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+10-08-2025 13:19:36 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:21)] - Starting the browser and navigating to the base URL

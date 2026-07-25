@@ -1,0 +1,130 @@
+11-08-2025 07:33:18 [main] [org.testng.TestNG] - suiteXmlPath: "E:\ITI\Automation\SwagLabsAutomationProject\Test Runner\RegressionSuite.xml"
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.setUp()[pri:0, instance:null] -1432165181
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.quit()[pri:0, instance:null] -1407979371
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.setUp()[pri:0, instance:null] -65283436
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.quit()[pri:0, instance:null] -89469242
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.setUp()[pri:0, instance:null] 1383007566
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.quit()[pri:0, instance:null] 1423839772
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC04_CheckoutTest.setUp()[pri:0, instance:null] -619877623
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC04_CheckoutTest.quit()[pri:0, instance:null] -574849449
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.setUp()[pri:0, instance:null] 149373555
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.quit()[pri:0, instance:null] 240539301
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC06_FinishingOrderTest.setUp()[pri:0, instance:null] -1421605646
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC06_FinishingOrderTest.quit()[pri:0, instance:null] -1376448480
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC01_LoginTest.validLoginTC()[pri:0, instance:Tests.TC01_LoginTest@2cf23c81] -2124467427
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.validLoginTC()[pri:0, instance:Tests.TC02_LandingTest@7859e786] -754560333
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.clickOnCartIcon()[pri:0, instance:Tests.TC02_LandingTest@7859e786] 680935871
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.addingRandomProductsToCartTC()[pri:0, instance:Tests.TC02_LandingTest@7859e786] 46126285
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.comparingPricesTC()[pri:0, instance:Tests.TC03_CartTest@549621f3] -2065389109
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC04_CheckoutTest.checkoutStepOneTC()[pri:0, instance:Tests.TC04_CheckoutTest@290b1b2e] 1511385147
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.checkoutStepTwoTC()[pri:0, instance:Tests.TC05_OverviewTest@c65a5ef] 986140240
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC06_FinishingOrderTest.finishOrderTC()[pri:0, instance:Tests.TC06_FinishingOrderTest@770d4269] -1790419386
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+11-08-2025 07:33:18 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  E:\ITI\Automation\SwagLabsAutomationProject\Test Runner\RegressionSuite.xml
+
+11-08-2025 07:33:19 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:24)] - Starting the browser and navigating to the base URL
+11-08-2025 07:33:34 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: validLoginTC started.
+11-08-2025 07:33:34 [main] [Tests.TC01_LoginTest.validLoginTC(TC01_LoginTest.java:32)] - Entering valid credentials and clicking on the login button
+11-08-2025 07:33:34 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: validLoginTC passed.
+11-08-2025 07:33:35 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:27)] - Starting the browser and navigating to the base URL
+11-08-2025 07:33:41 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: addingRandomProductsToCartTC started.
+11-08-2025 07:33:42 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 1
+11-08-2025 07:33:42 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 3
+11-08-2025 07:33:42 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 5
+11-08-2025 07:33:42 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:39)] - number of products on cart: 3
+11-08-2025 07:33:42 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:50)] - selected products: 3
+11-08-2025 07:33:42 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: addingRandomProductsToCartTC passed.
+11-08-2025 07:33:43 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:27)] - Starting the browser and navigating to the base URL
+11-08-2025 07:33:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: clickOnCartIcon started.
+11-08-2025 07:33:45 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: clickOnCartIcon passed.
+11-08-2025 07:33:46 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:27)] - Starting the browser and navigating to the base URL
+11-08-2025 07:33:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: validLoginTC started.
+11-08-2025 07:33:49 [main] [Tests.TC02_LandingTest.validLoginTC(TC02_LandingTest.java:35)] - Entering valid credentials and clicking on the login button
+11-08-2025 07:33:49 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:29)] - number of all products: 6
+11-08-2025 07:33:50 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:39)] - number of products on cart: 6
+11-08-2025 07:33:50 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:50)] - selected products: 6
+11-08-2025 07:33:50 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: validLoginTC passed.
+11-08-2025 07:33:51 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:26)] - Starting the browser and navigating to the base URL
+11-08-2025 07:33:57 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: comparingPricesTC started.
+11-08-2025 07:33:57 [main] [Tests.TC03_CartTest.comparingPricesTC(TC03_CartTest.java:34)] - Entering valid credentials and clicking on the login button
+11-08-2025 07:33:58 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 1
+11-08-2025 07:33:58 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 5
+11-08-2025 07:33:58 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 6
+11-08-2025 07:33:58 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:85)] - Total Price 53.97
+11-08-2025 07:33:58 [main] [Pages.P03_CartPage.getTotalPriceFromCartPage(P03_CartPage.java:32)] - Total Price 53.97
+11-08-2025 07:33:58 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: comparingPricesTC passed.
+11-08-2025 07:33:59 [main] [Tests.TC04_CheckoutTest.setUp(TC04_CheckoutTest.java:27)] - Starting the browser and navigating to the base URL
+11-08-2025 07:34:05 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkoutStepOneTC started.
+11-08-2025 07:34:05 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:35)] - Entering valid credentials and clicking on the login button
+11-08-2025 07:34:06 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 1
+11-08-2025 07:34:06 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 2
+11-08-2025 07:34:06 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 4
+11-08-2025 07:34:06 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkoutStepOneTC passed.
+11-08-2025 07:34:07 [main] [Tests.TC05_OverviewTest.setUp(TC05_OverviewTest.java:25)] - Starting the browser and navigating to the base URL
+11-08-2025 07:34:14 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkoutStepTwoTC started.
+11-08-2025 07:34:14 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:33)] - Entering valid credentials and clicking on the login button
+11-08-2025 07:34:14 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 1
+11-08-2025 07:34:14 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 5
+11-08-2025 07:34:14 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 6
+11-08-2025 07:34:15 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:33)] - Calculated Total Price: 58.29
+11-08-2025 07:34:15 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:28)] - Actual Total Price: 58.29
+11-08-2025 07:34:15 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: checkoutStepTwoTC passed.
+11-08-2025 07:34:16 [main] [Tests.TC06_FinishingOrderTest.setUp(TC06_FinishingOrderTest.java:25)] - Starting the browser and navigating to the base URL
+11-08-2025 07:34:34 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: finishOrderTC started.
+11-08-2025 07:34:34 [main] [Tests.TC06_FinishingOrderTest.finishOrderTC(TC06_FinishingOrderTest.java:33)] - Entering valid credentials and clicking on the login button
+11-08-2025 07:34:34 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 1
+11-08-2025 07:34:34 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 4
+11-08-2025 07:34:34 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 5
+11-08-2025 07:34:35 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: finishOrderTC passed.

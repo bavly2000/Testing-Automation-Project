@@ -1,0 +1,22 @@
+10-08-2025 16:57:26 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.setUp()[pri:0, instance:null] -65283436
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.quit()[pri:0, instance:null] -89469242
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC02_LandingTest.clickOnCartIcon()[pri:0, instance:Tests.TC02_LandingTest@34645867] -459230560
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 16:57:27 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 16:57:27 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+10-08-2025 16:57:35 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:27)] - Starting the browser and navigating to the base URL
+10-08-2025 16:57:38 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: clickOnCartIcon started.
+10-08-2025 16:57:39 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: clickOnCartIcon passed.

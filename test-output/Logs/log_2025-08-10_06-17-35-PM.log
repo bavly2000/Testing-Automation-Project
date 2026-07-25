@@ -1,0 +1,26 @@
+10-08-2025 18:17:35 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.setUp()[pri:0, instance:null] 149373555
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.quit()[pri:0, instance:null] 240539301
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC05_OverviewTest.checkoutStepTwoTC()[pri:0, instance:Tests.TC05_OverviewTest@62679465] -1865859898
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 18:17:36 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 18:17:36 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+10-08-2025 18:17:37 [main] [Tests.TC05_OverviewTest.setUp(TC05_OverviewTest.java:25)] - Starting the browser and navigating to the base URL
+10-08-2025 18:17:38 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: checkoutStepTwoTC started.
+10-08-2025 18:17:38 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:33)] - Entering valid credentials and clicking on the login button
+10-08-2025 18:17:38 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 3
+10-08-2025 18:17:39 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 4
+10-08-2025 18:17:39 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:61)] - randomNumber 5
+10-08-2025 18:17:45 [main] [Listeners.IInvoledMethodListenerClass.afterInvocation(IInvoledMethodListenerClass.java:19)] - Test Case: checkoutStepTwoTC failed.

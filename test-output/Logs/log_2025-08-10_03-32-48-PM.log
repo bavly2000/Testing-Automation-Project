@@ -1,0 +1,28 @@
+10-08-2025 15:32:48 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.setUp()[pri:0, instance:null] 1383007566
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.quit()[pri:0, instance:null] 1423839772
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE TC03_CartTest.comparingPricesTC()[pri:0, instance:Tests.TC03_CartTest@3ebff828] 1863221248
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+10-08-2025 15:32:49 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+10-08-2025 15:32:49 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Bavly\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+10-08-2025 15:33:00 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:26)] - Starting the browser and navigating to the base URL
+10-08-2025 15:33:02 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case: comparingPricesTC started.
+10-08-2025 15:33:02 [main] [Tests.TC03_CartTest.comparingPricesTC(TC03_CartTest.java:34)] - Entering valid credentials and clicking on the login button
+10-08-2025 15:33:02 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:64)] - randomNumber 4
+10-08-2025 15:33:02 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:64)] - randomNumber 5
+10-08-2025 15:33:02 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:64)] - randomNumber 6
+10-08-2025 15:33:02 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:97)] - Total Price 73.97
+10-08-2025 15:33:02 [main] [Pages.P03_CartPage.getTotalPriceFromCartPage(P03_CartPage.java:30)] - Total Price 73.97
+10-08-2025 15:33:02 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case: comparingPricesTC passed.
